@@ -1,3 +1,5 @@
+/// <reference path="../../typings/browser.d.ts" />
+
 import 'es6-shim';
 import 'es6-promise';
 declare function require(string): string;
